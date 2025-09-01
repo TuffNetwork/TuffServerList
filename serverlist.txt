@@ -11,7 +11,7 @@ Hyper Network|wss://eag.hyper-network.net|Survival § Minigames with cosmetics �
 
 
 Adventure Islands |wss://adventureislands.brainrotmc.org:25632/|Mostly survival, but more gamemodes coming soon|how do  I add this, I have the image though|§4§l3 GAMEMODES, Survival, Minigames, PVP|1.12.2
-Wisterian Anarchy|wss://ws.wisteriasmp.fun| Where Players can Keep the Peace or Disturb it...|https://media.discordapp.net/attachments/1391443100370604173/1391449400529780797/image.png?ex=686c987c§is=686b46fc§hm=4f706e5044494df97158307407d669fbcf2678806d3dff988d6bc61f1218159e§=§format=webp§quality=lossless§width=945§height=945|Anarchy Survival|1.8-1.12.2
+Wisterian Anarchy|wss://ws.wisteriananarchy.fun| Where Players can Keep the Peace or Disturb it...|https://media.discordapp.net/attachments/1391443100370604173/1391449400529780797/image.png?ex=686c987c§is=686b46fc§hm=4f706e5044494df97158307407d669fbcf2678806d3dff988d6bc61f1218159e§=§format=webp§quality=lossless§width=945§height=945|Anarchy Survival|1.8-1.12.2
 WhopperMC|wss://whopper.burgermap.org|A burger creator|https://icon-url.co|Survival|1.21.5
 Thunder Network | wss:/play.thundernetwork.store | java.thundernetwork.store |A lightning fast experience | https://thundernetwork.store|Survival,Lifesteal |  1.21.4 
 WanderwoodSMP|wss://wanderwood.thatonebot.site|Chill survival with PvP and crossplay| https://cdn.discordapp.com/attachments/1381435037496512637/1397520334470643743/2025-06-30_12.22.20.png?ex=688205bc§is=6880b43c§hm=1731699e7c4acc25ac4fabbb44ae21ecb604015ab7cef8be36789a89da62f9c1§ |Survival,PvP,Vanilla|1.21.6
