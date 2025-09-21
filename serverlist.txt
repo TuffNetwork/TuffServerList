@@ -18,5 +18,5 @@ WanderwoodSMP|wss://wanderwood.thatonebot.site|Chill survival with PvP and cross
 Shadow Network 2 |wss://play.shadownetwork.shop |A  w server for friends thst just want to meet people and have fun |https://play.shadownetwork.shop/favicon.png/lifesteal, oneblock, boxpvp, skyblock, |1.12.2, 1.8, 1.21.4
 DylanMC|wss://play.monacoeducation.info|unblocked at every school|https://play.monacoeducation.info/server-icon.png|1.12.2
 §4Cheeseburgere|wss://play.cburger.net|A Cheesey server|igtoolongtopost|Skyblock,Lifesteal,PVP|1.8.8-1.21.5
-&3&lGekkoGames Network|wss://wss://eagler.gekkogames.xyz:25698|A eaglercraft server with multiple survival-style gamemodes!|https://i.ibb.co/nNzr27Nd/logo1-optimized.png |Classic and Modded Survival|1.8-1.21
+&3&lGekkoGames Network|wss://eagler.gekkogames.xyz:25698|A eaglercraft server with multiple survival-style gamemodes!|https://i.ibb.co/nNzr27Nd/logo1-optimized.png |Classic and Modded Survival|1.8-1.21
 ValoreNetwork|wss://play.valore-network.onrender.com|Survival - IP's for OneBlock server and SkyBlock server in spawn / Java, Bedrock, EaglerCraftX|https://cdn.discordapp.com/attachments/1068378387502084098/1419032929266307273/CompressJPEG.Online_img512x512_2.png?ex=68d048e6&is=68cef766&hm=a0c5222d7248ef39a44ea2b2e7d221177bc0080552f1fa3c48829286d95c9a09&|1.8.8-1.21.6|
