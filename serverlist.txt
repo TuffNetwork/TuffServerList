@@ -1,22 +1,19 @@
 §cTuffNET|wss://tuff.ws|all compatible minecraft server. chill staff|https://cdn.discordapp.com/icons/1365166496417845308/fc75dffcfcf807c500c7be53805ae9ac.webp |Survival, Oneblock, PVP|1.12.2, 1.21.4, 1.8.8
 
-
 GG SMP|wss://ggsmp.net|see attached image for icon|Economy MMO based survival, more gamemodes in development|1.17.1
 AdderallMc | wss://adderall.ir | A 24/7 server with a good community and actice staff | Survival,OneBlock and Practice | 1.8.8 - 1.21.4
 WebMC|wss://play.webmc.fun|Minecraft Oneblock… With a twist!|https://play.webmc.fun/favicon.png%7COneblock%7C|1.12.2
 Voidsent MC|wss://mc.voidsent.net|#2 Eaglercraft Server|Survival,Practice,VanillaPvP,Factions|1.8-1.21
-wss://eagler.radiantnet.store|A Minecraft Network|Survival,Oneblock,Practice|1.12.2-1.21.8
 
 Hyper Network|wss://eag.hyper-network.net|Survival § Minigames with cosmetics § PvP|https://topeaglerservers.com/_next/image?url=%2Fapi%2Fpublic%2Fservers%2F7c6c24ee%2Ficon.png%3Fq%3D50%26v%3D0§w=256§q=75|Survival,PvP,Minigames|1.12.2
 §6§l§oRagePvP Network|wss://ragepvp.net|A Next-Gen Modern Network|https://www.ragepvp.net/storage/img/favicon.png|Survival, Practice, Skyblock, HCF § Prison|1.12.2
 §4§l§oNEXO§f§l§oMC §4§l§k |wss://nexomc.org| A 1.21 Server with Practice Survival And More To Come | Icon Will Be Provided Below |Survival,Practice, More soon |§f 1.8-1.21.5 §4§l§k
+DylanMC|wss://play.monacoeducation.info|unblocked at every school|https://play.monacoeducation.info/server-icon.png|1.12.2
 
 Wisterian Anarchy|wss://ws.wisteriananarchy.fun| Where Players can Keep the Peace or Disturb it...|https://media.discordapp.net/attachments/1391443100370604173/1391449400529780797/image.png?ex=686c987c§is=686b46fc§hm=4f706e5044494df97158307407d669fbcf2678806d3dff988d6bc61f1218159e§=§format=webp§quality=lossless§width=945§height=945|Anarchy Survival|1.8-1.12.2
 WhopperMC|wss://whopper.burgermap.org|A burger creator|https://icon-url.co|Survival|1.21.5
 WanderwoodSMP|wss://wanderwood.thatonebot.site|Chill survival with PvP and crossplay| https://cdn.discordapp.com/attachments/1381435037496512637/1397520334470643743/2025-06-30_12.22.20.png?ex=688205bc§is=6880b43c§hm=1731699e7c4acc25ac4fabbb44ae21ecb604015ab7cef8be36789a89da62f9c1§ |Survival,PvP,Vanilla|1.21.6
 Shadow Network 2 |wss://play.shadownetwork.shop |A  w server for friends thst just want to meet people and have fun |https://play.shadownetwork.shop/favicon.png/lifesteal, oneblock, boxpvp, skyblock, |1.12.2, 1.8, 1.21.4
-DylanMC|wss://play.monacoeducation.info|unblocked at every school|https://play.monacoeducation.info/server-icon.png|1.12.2
 §4Cheeseburgere|wss://play.cburger.net|A Cheesey server|igtoolongtopost|Skyblock,Lifesteal,PVP|1.8.8-1.21.5
 &3&lGekkoGames Network|wss://eagler.gekkogames.xyz:25698|A eaglercraft server with multiple survival-style gamemodes!|https://i.ibb.co/nNzr27Nd/logo1-optimized.png |Classic and Modded Survival|1.8-1.21
-ValoreNetwork|wss://play.valore-network.onrender.com|Survival - IP's for OneBlock server and SkyBlock server in spawn / Java, Bedrock, EaglerCraftX|https://cdn.discordapp.com/attachments/1068378387502084098/1419032929266307273/CompressJPEG.Online_img512x512_2.png?ex=68d048e6&is=68cef766&hm=a0c5222d7248ef39a44ea2b2e7d221177bc0080552f1fa3c48829286d95c9a09&|1.8.8-1.21.6|
 Nitrocraft|wss://eagler.nitrocraft.dpdns.org|A cool server|https://icon-url.co|Survival|1.12.2+
