@@ -1,6 +1,7 @@
 §cTuffNET|wss://tuff.ws|all compatible minecraft server. chill staff|https://cdn.discordapp.com/icons/1365166496417845308/fc75dffcfcf807c500c7be53805ae9ac.webp |Survival, Oneblock, PVP|1.12.2, 1.21.4, 1.8.8
 
-§4§l§oNEXO§f§l§oMC §4§l§k |wss://nexomc.org| A 1.21 Server with Practice Survival And More To Come | Icon Will Be Provided Below |Survival,Practice, More soon |§f 1.8-1.21 §4§l§k
+§4§l§oNEXO§f§l§oMC §4§l§k |wss://nexomc.org|§4§c§71.8x - 1.21x §8 §4§L§oNEXO§f§l§oMC §8» §7discord.gg/nexomc §c§4§f§k|§c§k|§F§k|§fBuy ranks and perks at §8→ §4§nstore.nexomc.org§c §f§k§c§k§f§k| Icon Will Be Provided Below |Survival,Practice, More soon |§f 1.8-1.21 §4§l§k
+
 
 GG SMP|wss://ggsmp.net|see attached image for icon|Economy MMO based survival, more gamemodes in development|1.17.1
 AdderallMc|wss://adderall.ir| A 24/7 server with a good community and active staff | Survival,OneBlock and Practice | 1.8.8 - 1.21.4
@@ -12,7 +13,7 @@ Hyper Network|wss://eag.hyper-network.net|Survival § Minigames with cosmetics �
 Wisterian Anarchy|wss://ws.wisteriananarchy.fun| Where Players can Keep the Peace or Disturb it...|https://media.discordapp.net/attachments/1391443100370604173/1391449400529780797/image.png?ex=686c987c§is=686b46fc§hm=4f706e5044494df97158307407d669fbcf2678806d3dff988d6bc61f1218159e§=§format=webp§quality=lossless§width=945§height=945|Anarchy Survival|1.8-1.12.2
 WhopperMC|wss://whopper.burgermap.org|A burger creator|https://icon-url.co|Survival|1.21.5
 WanderwoodSMP|wss://wanderwood.thatonebot.site|Chill survival with PvP and crossplay| https://cdn.discordapp.com/attachments/1381435037496512637/1397520334470643743/2025-06-30_12.22.20.png?ex=688205bc§is=6880b43c§hm=1731699e7c4acc25ac4fabbb44ae21ecb604015ab7cef8be36789a89da62f9c1§ |Survival,PvP,Vanilla|1.21.6
-&d&lShadow &f&lNetwork |wss://play.shadownetwork.shop |A  w server for friends thst just want to meet people and have fun |https://play.shadownetwork.shop/favicon.png|lifesteal, oneblock, boxpvp, skyblock, |1.8-1.21.4
+§d§lShadow §f§lNetwork |wss://play.shadownetwork.shop |A  w server for friends thst just want to meet people and have fun |https://play.shadownetwork.shop/favicon.png|lifesteal, oneblock, boxpvp, skyblock, |1.8-1.21.4
 §4Cheeseburgere|wss://play.cburger.net|A Cheesey server|igtoolongtopost|Skyblock,Lifesteal,PVP|1.8.8-1.21.5
-&3&lGekkoGames Network|wss://eagler.gekkogames.xyz:25698|A eaglercraft server with multiple survival-style gamemodes!|https://i.ibb.co/nNzr27Nd/logo1-optimized.png |Classic and Modded Survival|1.8-1.21
+§3§lGekkoGames Network|wss://eagler.gekkogames.xyz:25698|A eaglercraft server with multiple survival-style gamemodes!|https://i.ibb.co/nNzr27Nd/logo1-optimized.png |Classic and Modded Survival|1.8-1.21
 Nitrocraft|wss://eagler.nitrocraft.dpdns.org|A cool server|https://icon-url.co|Survival|1.12.2+
